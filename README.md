@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering & Cloud Computing
 - 🌱 I’m currently learning DSA, & the basics of data Engineering.
 - I have a strong grasp of MySql, Python, etc.
-- 💞️ I’m looking to collaborate on projects related to DBMS.
+- 💞️ I’m looking to collaborate on projects related to the field.
 - 📫 You can reach me on Discord (abyxrss).
 
 <!---
